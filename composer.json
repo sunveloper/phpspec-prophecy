@@ -23,6 +23,13 @@
       "email": "marcello.duarte@gmail.com"
     }
   ],
+  "repositories": {
+    "private-packagist": {
+      "type": "composer",
+      "url": "https://repo.packagist.com/sunveloper/"
+    },
+    "packagist.org": false
+  },
   "require": {
     "php": "^7.2 || ~8.0, <8.1",
     "phpdocumentor/reflection-docblock": "^5.2",
